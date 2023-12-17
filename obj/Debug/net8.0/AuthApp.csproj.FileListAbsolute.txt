@@ -30,3 +30,4 @@ C:\Users\TK\Desktop\dev\AuthApp\obj\Debug\net8.0\refint\AuthApp.dll
 C:\Users\TK\Desktop\dev\AuthApp\obj\Debug\net8.0\AuthApp.pdb
 C:\Users\TK\Desktop\dev\AuthApp\obj\Debug\net8.0\AuthApp.genruntimeconfig.cache
 C:\Users\TK\Desktop\dev\AuthApp\obj\Debug\net8.0\ref\AuthApp.dll
+C:\Users\TK\Desktop\dev\AuthApp\obj\Debug\net8.0\AuthApp.sourcelink.json
