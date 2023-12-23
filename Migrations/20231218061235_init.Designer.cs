@@ -13,7 +13,7 @@ namespace AuthApp.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
     [Migration("20231218061235_init")]
-    partial class init
+    partial class Init
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

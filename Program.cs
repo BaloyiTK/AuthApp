@@ -40,7 +40,8 @@ builder.Services.Configure<IdentityOptions>(options =>
     options.Password.RequireDigit = false;
     options.Password.RequireLowercase = false;
     options.Password.RequireUppercase = false;
-    options.SignIn.RequireConfirmedEmail = false;   
+    options.SignIn.RequireConfirmedEmail = false;
+    options.Password.RequireNonAlphanumeric = false;
 
 });
 
